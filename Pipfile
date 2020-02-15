@@ -5,13 +5,13 @@ verify_ssl = true
 
 [dev-packages]
 black = "*"
+pipenv-to-requirements = "*"
 
 [packages]
 pandas = "*"
 plotly = "*"
 flask = "*"
-gunicorn = "*"
-fcntl = "*"
+pipenv-to-requirements = "*"
 
 [requires]
 python_version = "3.7"
